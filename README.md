@@ -1,16 +1,10 @@
-# 📊 Analytics Portfolio — SQL, Python & Power BI
+## 📊 Data Analyst Portfolio — SQL | Python | Power BI
 
-Hi, I’m **Sathvik** 👋  
-I’m a **Data Analyst focused on SQL-driven analytics, Python-based business analysis, and Power BI dashboards** for data-driven decision-making.
+Contract-ready Data Analyst focused on SQL-driven analytics, Python-based business analysis, and executive-level Power BI dashboards for startup and SaaS decision-making.
 
-This portfolio showcases **end-to-end analytics work** covering:
-- Revenue & growth analysis
-- Product usage, retention & churn
-- Experimentation & business impact
-- Executive-level dashboards and insights
+This portfolio showcases end-to-end analytics work covering revenue, growth, retention, churn, experimentation, and business impact — mirroring how analytics is done in real startups, not toy datasets.
 
-My work mirrors **real startup and SaaS analytics**, where analysts solve business problems using production-style logic — not toy datasets.
-
+✅ Available immediately for remote, contract-based analytics work.
 ---
 
 ## 🧠 Core Skills
@@ -147,10 +141,9 @@ Each dashboard includes:
 
 ## 💼 Target Roles
 
-- Data Analyst (Junior / Early–Mid)
+- Data Analyst (Contract / Remote)
 - Product / Growth Analyst
 - Business Analyst
-- Remote / Foreign Contract Roles
 - Startup & SaaS Analytics Teams
 
 ---
@@ -159,5 +152,5 @@ Each dashboard includes:
 
 If you’re a founder or team looking for **contract-based analytics support**, feel free to reach out.
 
-**GitHub:** (this repository)  
-**LinkedIn:** (add link)
+**GitHub:** https://github.com/sathvikshet
+**LinkedIn:**  https://www.linkedin.com/in/sathviksshet/
