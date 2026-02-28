@@ -153,4 +153,5 @@ Each dashboard includes:
 If you’re a founder or team looking for **contract-based analytics support**, feel free to reach out.
 
 **GitHub:** https://github.com/sathvikshet
+
 **LinkedIn:**  https://www.linkedin.com/in/sathviksshet/
