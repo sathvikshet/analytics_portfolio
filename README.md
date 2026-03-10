@@ -1,10 +1,10 @@
 ## 📊 Data Analyst Portfolio — SQL | Python | Power BI
 
-Contract-ready Data Analyst focused on SQL-driven analytics, Python-based business analysis, and executive-level Power BI dashboards for startup and SaaS decision-making.
+Data Analyst focused on SQL-driven analytics, Python-based business analysis, and executive-level Power BI dashboards for startup and SaaS decision-making.
 
 This portfolio showcases end-to-end analytics work covering revenue, growth, retention, churn, experimentation, and business impact — mirroring how analytics is done in real startups, not toy datasets.
 
-✅ Available immediately for remote, contract-based analytics work.
+Available for Data Analyst roles, remote opportunities, and analytics consulting.
 ---
 
 ## 🧠 Core Skills
