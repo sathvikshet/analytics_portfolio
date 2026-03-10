@@ -123,9 +123,10 @@ Detailed assumptions and table structure are documented in
 
 This project is designed for:
 
-* **Junior Data Analyst**
-* **Remote / Foreign Contract Roles**
-* SQL-focused analytics positions
+• Data Analyst
+• Product / Business Analyst
+• SQL-focused analytics roles
+• Startup and SaaS analytics teams
 
 The emphasis is on **clear thinking, business understanding, and readable SQL** rather than just complex queries.
 
@@ -134,8 +135,7 @@ The emphasis is on **clear thinking, business understanding, and readable SQL** 
 ## 🔹 Author
 
 **Sathvik**
-Aspiring Junior Data Analyst
-Focused on remote, contract-based analytics roles
+Aspiring Data Analyst specializing in SQL analytics, business intelligence, and data-driven decision making.
 
 ---
 
